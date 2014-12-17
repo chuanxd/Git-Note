@@ -1,17 +1,18 @@
 #Git Common Command
-====================
 
 ##Create a new repository
 
+```
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/chuanxd/Git-Note.git
 git push -u origin master
-=========================
+```
 
 ##Git Common Command
 
+```
 git config
 git clone
 git status
@@ -30,7 +31,7 @@ git revert
 git cherry-pick
 git push
 git merge
-
+```
 
 
 
