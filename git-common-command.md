@@ -26,11 +26,19 @@ git stash
 git diff
 git add
 git commit
+git show
 git log
 git revert
 git cherry-pick
 git push
 git merge
+
+git bisect
+git tag
+git rm
+git grep
+gitk
+
 ```
 
 
