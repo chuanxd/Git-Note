@@ -25,7 +25,7 @@ git add -A
 //將現在目錄底下變動的檔案加入staging area
 git add .
 
-``
+```
 
 ##將變動檔案加入staging area 並且提交Commit 訊息
 
