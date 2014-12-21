@@ -14,6 +14,8 @@ Something about Git.
 5. [Delete-branch](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Delete-branch.md)
 6. [Resume-to-older-commit](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Resume-to-older-commit.md)
 7. [Push-to-remote-refs](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Push-to-remote-refs.md)
+8. [Fetch-remote-repository](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Fetch-remote-repository.md)
+9. [Stash-working-directory](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Stash-working-directory.md)
 
 ##Git internals
 
