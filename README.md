@@ -16,6 +16,7 @@ Something about Git.
 7. [Push-to-remote-refs](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Push-to-remote-refs.md)
 8. [Fetch-remote-repository](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Fetch-remote-repository.md)
 9. [Stash-working-directory](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Stash-working-directory.md)
+10. [Show-git-log](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-log.md)
 
 ##Git internals
 
