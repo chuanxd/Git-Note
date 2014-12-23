@@ -14,4 +14,16 @@ git log <branch name>
 
 git log -p <commit sha-1>
 
+//顯示commit sha-1 與 commit messag
+
+git log --oneline
+
+//git log --oneline 如下顯示結果：
+7c41b52 branch-2-3
+adb2e95 branch-2-2
+54ef718 branch-2-1
+f2c0739 commit-2
+1e1c3b2 2 commit
+63a1849 first commit
+
 ``` 
