@@ -44,6 +44,30 @@ git stash show -p
 
 git stah show -p stash@{1}
 
+//取出特定stash 堆疊中的資料
+
+git stash apply stash@{id}
+
+//git stash apply 取出資料還會存在於stash 堆疊中，需要手動清除，請參考下面的指令清除。
+
+```
+
+關於刪除stash 堆疊資料
+
+```
+
+//刪除stash 最上層資料
+
+git stash drop
+
+//刪除stash 堆疊特定資料
+
+git stash drop stash@{<id>}
+
+//如果是刪除stash 堆疊第二個資料
+
+git stash drop stash@{1}
+
 //清空stash 堆疊
 
 git stash clear
