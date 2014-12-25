@@ -18,7 +18,7 @@ Something about Git.
 9. [Fetch-remote-repository](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Fetch-remote-repository.md)
 10. [Stash-working-directory](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Stash-working-directory.md)
 11. [Show-git-log](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-log.md)
-12 [Show-git-summarize-log.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-summarize-log.md)
+12. [Show-git-summarize-log.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-summarize-log.md)
 
 ##Git internals
 
