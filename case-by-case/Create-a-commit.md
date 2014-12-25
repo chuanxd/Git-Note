@@ -31,6 +31,8 @@ git add .
 
 ```
 
+//commit -a 參數無法將新增檔案加入staging area，新增檔案需要使用git add 指令加入staging area。
+
 git commit -a -m 'Commit message'
 
 ```
