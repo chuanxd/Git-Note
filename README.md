@@ -21,6 +21,8 @@ Something about Git.
 12. [Stash-working-directory](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Stash-working-directory.md)
 13. [Show-git-log](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-log.md)
 14. [Show-git-summarize-log.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-summarize-log.md)
+15. [Git-merge-into-branch.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Git-merge-into-branch.md)
+16. [Why-change-branch-line.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Why-change-branch-line.md)
 
 ##Git internals
 
