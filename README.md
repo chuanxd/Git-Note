@@ -1,6 +1,8 @@
 Git-Note
 ========
 
+![git logo](http://git-scm.com/images/logo@2x.png)
+
 Something about Git.
 
 整理記錄關於Git 版本控制的知識，如果有錯誤的地方歡迎提出。 
