@@ -41,5 +41,17 @@ gitk
 
 ```
 
+```
+
+git reflog
+
+git fsck
+
+git gc
+
+git prune
+
+```
+
 
 
