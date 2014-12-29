@@ -70,14 +70,21 @@ Fast forward 是指合併過程中，將當前barcnch HEAD 參考點指向合併
 
 以下解釋已master 與branch 進行Fast forward 合併：
 
+```
+
 Master A---
         \ 
 Branch   B
 
-git merge --ff 之後
+```
 
+執行git merge --ff 之後
+
+```
 
 Master A---B
+
+```
 
 線路上看不到branch 因為透過Fast forward 進行合併，branch 已經和併入到master 線路裡。
 
@@ -87,11 +94,13 @@ Fast forward 認為master 合併前與branch 之間的差異就是B commit 節�
 
 建議使用git merge --no-ff 指令進行合併動作。
 
+```
+
 Master A------C
         \    /
 Branch   B---
 
-
+```
 
 
 
