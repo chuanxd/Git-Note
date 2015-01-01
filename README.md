@@ -9,7 +9,7 @@ Something about Git.
 
 ##Case by case
 
-1. [Show-git-version](https://github.com/chuanxd/Git-Note/blob/master/case-by-case)
+1. [Show-git-version](https://github.com/chuanxd/Git-Note/blob/master/case-by-case.md)
 2. [Setting-your-email-and-username.md](https://github.com/Git-Note/blob/master/case-by-case/Setting-your-email-and-username.md)
 3. [Show-git-status](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-status.md)
 4. [Create-a-commit](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Create-a-commit.md)
@@ -25,6 +25,8 @@ Something about Git.
 14. [Show-git-summarize-log.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-summarize-log.md)
 15. [Git-merge-into-branch.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Git-merge-into-branch.md)
 16. [Why-change-branch-line.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Why-change-branch-line.md)
+17. [Showing-each-commits-information-on-graph.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Showing-each-commits-information-on-graph.md)
+18. [Counting-objects-on-repository.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Counting-objects-on-repository.md)
 
 ##Git internals
 
