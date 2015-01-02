@@ -30,6 +30,7 @@ Something about Git.
 16. [Why-change-branch-line.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Why-change-branch-line.md)
 17. [Showing-each-commits-information-on-graph.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Showing-each-commits-information-on-graph.md)
 18. [Counting-objects-on-repository.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Counting-objects-on-repository.md)
+19. [Ignoring-files.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Ignoring-files.md)
 
 ##Git internals
 
