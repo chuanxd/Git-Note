@@ -13,4 +13,4 @@ git rm -cached <File Name>
 
 ```
 
-Reference [](https://help.github.com/articles/ignoring-files/)
+Reference (https://help.github.com/articles/ignoring-files/)
