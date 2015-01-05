@@ -34,6 +34,6 @@ Something about Git.
 
 ##Git internals
 
-1. [Git-ojects](https://github.com/chuanxd/Git-Note/blob/master/git-internals/git-objects.md)
+1. [Git-objects](https://github.com/chuanxd/Git-Note/blob/master/git-internals/git-objects.md)
 
 
