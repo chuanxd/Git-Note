@@ -13,7 +13,7 @@ Something about Git.
 [Installing Git on Homebrew](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Git-on-homegrew.md)
 
 1. [Show-git-version](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-version.md)
-2. [Setting-your-email-and-username.md](https://github.com/Git-Note/blob/master/case-by-case/Setting-your-email-and-username.md)
+2. [Setting-your-email-and-username.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Setting-your-email-and-username.md)
 3. [Show-git-status](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-status.md)
 4. [Create-a-commit](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Create-a-commit.md)
 5. [Create-a-branch](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Create-a-branch.md)
