@@ -27,7 +27,7 @@ HEAD 指向目前所在的branch 的commit 物件位置，如果你的branch 被
 
 ##Git ref 所在的位置
 
-'''
+```
 
 .git/ref
 .git/refs/ref
@@ -36,6 +36,6 @@ HEAD 指向目前所在的branch 的commit 物件位置，如果你的branch 被
 .git/refs/remotes/ref
 .git/refs/remotes/ref/HEAD
 
-'''
+```
 
 Git 的工作目錄.git 是可以被變更的，Git 內部文件使用$GIT_DIR 變數儲存.git 目前的工作目錄。
