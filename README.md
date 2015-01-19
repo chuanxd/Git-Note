@@ -38,3 +38,7 @@ Something about Git.
 1. [Git-objects](https://github.com/chuanxd/Git-Note/blob/master/git-internals/git-objects.md)
 2. [Git-ref](https://github.com/chuanxd/Git-Note/blob/master/git-internals/git-ref.md)
 
+
+Reference:
+
+[](http://gitref.org/index.html)

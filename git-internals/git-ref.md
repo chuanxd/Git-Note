@@ -10,6 +10,8 @@
 
 HEAD 指向目前所在的branch 的commit 物件位置，如果你的branch 被更新，HEAD 隨即會指向最新的commit 物件。
 
+HEAD 永遠會指向目前的工作目錄。
+
 ###ORIG_HEAD
 
 你可以在ORGIN_HEAD 指標中找到合併(merge、rebase)、重設(reset)前的HEAD commit 物件。
@@ -39,3 +41,13 @@ HEAD 指向目前所在的branch 的commit 物件位置，如果你的branch 被
 ```
 
 Git 的工作目錄.git 是可以被變更的，Git 內部文件使用$GIT_DIR 變數儲存.git 目前的工作目錄。
+
+##顯示所有的參照(ref)
+
+使用git show-ref 顯示所有的ref
+
+```
+
+git show-ref
+
+```
