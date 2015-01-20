@@ -41,4 +41,4 @@ Something about Git.
 
 Reference:
 
-[](http://gitref.org/index.html)
+1. [gitref.org](http://gitref.org/index.html)
