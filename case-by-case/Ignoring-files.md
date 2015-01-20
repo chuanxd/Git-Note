@@ -9,7 +9,7 @@
 
 ```
 
-git rm -cached <File Name>
+git rm --cached <File Name>
 
 ```
 
