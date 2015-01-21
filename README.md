@@ -42,3 +42,5 @@ Something about Git.
 Reference:
 
 1. [gitref.org](http://gitref.org/index.html)
+2. [Atlassian](https://www.atlassian.com/git/tutorials/)
+3. [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
