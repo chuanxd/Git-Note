@@ -28,10 +28,10 @@ Something about Git.
 14. [Show-git-summarize-log](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Show-git-summarize-log.md)
 15. [Git-merge-into-branch](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Git-merge-into-branch.md)
 16. [Why-change-branch-line](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Why-change-branch-line.md)
-17. [Showing-each-commits-information-on-graph.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Showing-each-commits-information-on-graph)
-18. [Counting-objects-on-repository.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Counting-objects-on-repository)
-19. [Ignoring-files.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Ignoring-files.md)
-20. [Branch-naming-conventions.md](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Branch-naming-conventions.md)
+17. [Showing-each-commits-information-on-graph](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Showing-each-commits-information-on-graph)
+18. [Counting-objects-on-repository](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Counting-objects-on-repository.md)
+19. [Ignoring-files](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Ignoring-files.md)
+20. [Branch-naming-conventions](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Branch-naming-conventions.md)
 21. [Searching-problem-commit](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Searching-problem-commit.md)
 
 ##Git internals
