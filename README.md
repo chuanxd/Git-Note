@@ -33,6 +33,7 @@ Something about Git.
 19. [Ignoring-files](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Ignoring-files.md)
 20. [Branch-naming-conventions](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Branch-naming-conventions.md)
 21. [Searching-problem-commit](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Searching-problem-commit.md)
+22. [Remove-untracked-file-from-the-working-tree](https://github.com/chuanxd/Git-Note/blob/master/case-by-case/Remove-untracked-file-from-the-working-tree.md)
 
 ##Git internals
 
