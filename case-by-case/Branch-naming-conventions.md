@@ -16,11 +16,11 @@
 
 如果有五個分支：
 
-*timmy/branch1
-*timmy/branch2
-*huei/branch1
-*liz/branch1
-*nicole/branch1
+* timmy/branch1
+* timmy/branch2
+* huei/branch1
+* liz/branch1
+* nicole/branch1
 
 在某些Git GUI 工具(如source tree)自動利用斜線歸納整理branch 分組，自動分成四組timmy, huei, liz, nicole，可以輕鬆管理自己創立的分支及方便快速識別他人分。
 
