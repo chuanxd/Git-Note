@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+set -e -x
+git --version
+
+_source_branch=${1:-stage}
+_update_branch=${2:-stage}
+_repo=${3:-origin}
+
+# get current branch
+_git_status=`git status`
+_status=($_git_status)
+_origin_branch=${_status[2]}
+
+git fetch $_repo
+git checkout $_update_branch
+git rebase $_repo/$_source_branch
+git push $_repo $_update_branch
+# return origin branch
+git checkout $_origin_branch
